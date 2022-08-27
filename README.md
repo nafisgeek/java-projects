@@ -13,6 +13,7 @@ Basic Git Commands :
 3. git add .
 4. git commit -m "Enter any commit message"
 5. git push
+6. git pull -> To fetch remote changes to local branch
 
 
 Setup username and email:
