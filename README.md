@@ -4,7 +4,7 @@ This is my java project repository.
 Basic unix commands:
 1. pwd -> present working directory
 2. cd <path> -> change drirectory
-3. ls -> list files amd folders
+3. ls -> list files and folderssss
 
 
 Basic Git Commands :
